@@ -1,0 +1,10 @@
+.spin {
+    display: block;
+    align-items: center;
+    margin-top: 50px;
+}
+
+table {
+    background-color: #DDD0C8;
+    color: black;
+}

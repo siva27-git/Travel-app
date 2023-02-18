@@ -1,0 +1,23 @@
+.main-section {
+    background-color: #DDD0C8;
+    color: white;
+    height: 700px;
+    display: block;
+}
+
+.top-form {
+    margin-left: 200px;
+    margin-right: 200px;
+    padding-top: 20px;
+    margin-top: 1px;
+    height: 90%;
+}
+
+.form {
+    color: #323232;
+}
+
+.submit-button {
+    margin-left: 430px;
+    margin-top: 10px;
+}
